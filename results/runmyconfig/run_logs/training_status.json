@@ -1,0 +1,29 @@
+{
+    "Agent Ctrl": {
+        "checkpoints": [
+            {
+                "steps": 351268,
+                "file_path": "results\\runmyconfig\\Agent Ctrl\\Agent Ctrl-351268.onnx",
+                "reward": 2.0,
+                "creation_time": 1729520944.1093757,
+                "auxillary_file_paths": [
+                    "results\\runmyconfig\\Agent Ctrl\\Agent Ctrl-351268.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 351268,
+            "file_path": "results\\runmyconfig\\Agent Ctrl.onnx",
+            "reward": 2.0,
+            "creation_time": 1729520944.1093757,
+            "auxillary_file_paths": [
+                "results\\runmyconfig\\Agent Ctrl\\Agent Ctrl-351268.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.5.0+cpu"
+    }
+}

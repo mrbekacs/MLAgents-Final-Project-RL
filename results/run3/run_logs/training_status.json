@@ -1,0 +1,38 @@
+{
+    "Agent Ctrl": {
+        "checkpoints": [
+            {
+                "steps": 499991,
+                "file_path": "results\\run3\\Agent Ctrl\\Agent Ctrl-499991.onnx",
+                "reward": 1.9924050632911392,
+                "creation_time": 1729506417.167274,
+                "auxillary_file_paths": [
+                    "results\\run3\\Agent Ctrl\\Agent Ctrl-499991.pt"
+                ]
+            },
+            {
+                "steps": 500037,
+                "file_path": "results\\run3\\Agent Ctrl\\Agent Ctrl-500037.onnx",
+                "reward": 1.9924433249370277,
+                "creation_time": 1729506417.1989667,
+                "auxillary_file_paths": [
+                    "results\\run3\\Agent Ctrl\\Agent Ctrl-500037.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500037,
+            "file_path": "results\\run3\\Agent Ctrl.onnx",
+            "reward": 1.9924433249370277,
+            "creation_time": 1729506417.1989667,
+            "auxillary_file_paths": [
+                "results\\run3\\Agent Ctrl\\Agent Ctrl-500037.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.5.0+cpu"
+    }
+}
